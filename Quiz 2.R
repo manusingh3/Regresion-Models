@@ -1,7 +1,6 @@
 # Regression Models
 # Coursera
-# Quiz 2
-# Bastiaan Quast
+
 
 # Question 1
 x <- c(0.61, 0.93, 0.83, 0.35, 0.54, 0.16, 0.91, 0.62, 0.62)
